@@ -80,4 +80,4 @@ vercel
 ## 👉 Live Demo
 
 **Live Deployment:**  
-[Vercel Project]()
+[Vercel Project](https://r6-nadiias-projects-dc6d9292.vercel.app/)
